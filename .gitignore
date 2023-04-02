@@ -130,3 +130,5 @@ dmypy.json
 
 # PyCharm configurations
 .idea/
+bak/
+*.zip
