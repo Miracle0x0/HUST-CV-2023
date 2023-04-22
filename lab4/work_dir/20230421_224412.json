@@ -1,0 +1,200 @@
+{"mode": "train", "epoch": 1, "iter": 50, "loss": 0.8708224892616272, "lr": 0.001}
+{"mode": "train", "epoch": 1, "iter": 100, "loss": 0.7131561040878296, "lr": 0.001}
+{"mode": "train", "epoch": 1, "iter": 150, "loss": 0.6584190130233765, "lr": 0.001}
+{"mode": "train", "epoch": 1, "iter": 200, "loss": 0.7131627798080444, "lr": 0.001}
+{"mode": "train", "epoch": 1, "iter": 250, "loss": 0.5143014788627625, "lr": 0.001}
+{"mode": "train", "epoch": 1, "iter": 300, "loss": 0.4424399435520172, "lr": 0.001}
+{"mode": "train", "epoch": 1, "iter": 350, "loss": 0.6229956746101379, "lr": 0.001}
+{"mode": "train", "epoch": 1, "iter": 400, "loss": 0.5216614603996277, "lr": 0.001}
+{"mode": "train", "epoch": 1, "iter": 450, "loss": 0.5538126826286316, "lr": 0.001}
+{"mode": "check", "epoch": 1, "iter": 489, "train_loss": 0.6291406346610718, "val_loss": 0.43112385272979736, "train_acc": 0.889008, "val_acc": 0.852, "lr": 0.001}
+{"mode": "train", "epoch": 2, "iter": 50, "loss": 0.3852554261684418, "lr": 1e-05}
+{"mode": "train", "epoch": 2, "iter": 100, "loss": 0.4098746180534363, "lr": 1e-05}
+{"mode": "train", "epoch": 2, "iter": 150, "loss": 0.3294486999511719, "lr": 1e-05}
+{"mode": "train", "epoch": 2, "iter": 200, "loss": 0.3292894661426544, "lr": 1e-05}
+{"mode": "train", "epoch": 2, "iter": 250, "loss": 0.29572373628616333, "lr": 1e-05}
+{"mode": "train", "epoch": 2, "iter": 300, "loss": 0.2158910185098648, "lr": 1e-05}
+{"mode": "train", "epoch": 2, "iter": 350, "loss": 0.2999284863471985, "lr": 1e-05}
+{"mode": "train", "epoch": 2, "iter": 400, "loss": 0.24858902394771576, "lr": 1e-05}
+{"mode": "train", "epoch": 2, "iter": 450, "loss": 0.14389243721961975, "lr": 1e-05}
+{"mode": "check", "epoch": 2, "iter": 489, "train_loss": 0.2749017320939003, "val_loss": 0.3083326742053032, "train_acc": 0.928272, "val_acc": 0.893, "lr": 1e-05}
+{"mode": "train", "epoch": 3, "iter": 50, "loss": 0.323106586933136, "lr": 1e-05}
+{"mode": "train", "epoch": 3, "iter": 100, "loss": 0.34978771209716797, "lr": 1e-05}
+{"mode": "train", "epoch": 3, "iter": 150, "loss": 0.26831454038619995, "lr": 1e-05}
+{"mode": "train", "epoch": 3, "iter": 200, "loss": 0.2857046127319336, "lr": 1e-05}
+{"mode": "train", "epoch": 3, "iter": 250, "loss": 0.2479594647884369, "lr": 1e-05}
+{"mode": "train", "epoch": 3, "iter": 300, "loss": 0.18802285194396973, "lr": 1e-05}
+{"mode": "train", "epoch": 3, "iter": 350, "loss": 0.2512573003768921, "lr": 1e-05}
+{"mode": "train", "epoch": 3, "iter": 400, "loss": 0.20019769668579102, "lr": 1e-05}
+{"mode": "train", "epoch": 3, "iter": 450, "loss": 0.1380247175693512, "lr": 1e-05}
+{"mode": "check", "epoch": 3, "iter": 489, "train_loss": 0.23181277483031307, "val_loss": 0.290757792070508, "train_acc": 0.935248, "val_acc": 0.902, "lr": 1e-05}
+{"mode": "train", "epoch": 4, "iter": 50, "loss": 0.30449599027633667, "lr": 1e-05}
+{"mode": "train", "epoch": 4, "iter": 100, "loss": 0.3399867117404938, "lr": 1e-05}
+{"mode": "train", "epoch": 4, "iter": 150, "loss": 0.2487994134426117, "lr": 1e-05}
+{"mode": "train", "epoch": 4, "iter": 200, "loss": 0.27725040912628174, "lr": 1e-05}
+{"mode": "train", "epoch": 4, "iter": 250, "loss": 0.22068698704242706, "lr": 1e-05}
+{"mode": "train", "epoch": 4, "iter": 300, "loss": 0.17118246853351593, "lr": 1e-05}
+{"mode": "train", "epoch": 4, "iter": 350, "loss": 0.24028412997722626, "lr": 1e-05}
+{"mode": "train", "epoch": 4, "iter": 400, "loss": 0.2072743922472, "lr": 1e-05}
+{"mode": "train", "epoch": 4, "iter": 450, "loss": 0.1252424567937851, "lr": 1e-05}
+{"mode": "check", "epoch": 4, "iter": 489, "train_loss": 0.21121054235274442, "val_loss": 0.2791472990065813, "train_acc": 0.941168, "val_acc": 0.908, "lr": 1e-05}
+{"mode": "train", "epoch": 5, "iter": 50, "loss": 0.26614341139793396, "lr": 1e-05}
+{"mode": "train", "epoch": 5, "iter": 100, "loss": 0.27862727642059326, "lr": 1e-05}
+{"mode": "train", "epoch": 5, "iter": 150, "loss": 0.23293109238147736, "lr": 1e-05}
+{"mode": "train", "epoch": 5, "iter": 200, "loss": 0.26072385907173157, "lr": 1e-05}
+{"mode": "train", "epoch": 5, "iter": 250, "loss": 0.17922568321228027, "lr": 1e-05}
+{"mode": "train", "epoch": 5, "iter": 300, "loss": 0.14342698454856873, "lr": 1e-05}
+{"mode": "train", "epoch": 5, "iter": 350, "loss": 0.224396750330925, "lr": 1e-05}
+{"mode": "train", "epoch": 5, "iter": 400, "loss": 0.1460084319114685, "lr": 1e-05}
+{"mode": "train", "epoch": 5, "iter": 450, "loss": 0.10437220335006714, "lr": 1e-05}
+{"mode": "check", "epoch": 5, "iter": 489, "train_loss": 0.19389746317179046, "val_loss": 0.2716122828423977, "train_acc": 0.94568, "val_acc": 0.911, "lr": 1e-05}
+{"mode": "train", "epoch": 6, "iter": 50, "loss": 0.21956828236579895, "lr": 1e-05}
+{"mode": "train", "epoch": 6, "iter": 100, "loss": 0.2704405188560486, "lr": 1e-05}
+{"mode": "train", "epoch": 6, "iter": 150, "loss": 0.2182997614145279, "lr": 1e-05}
+{"mode": "train", "epoch": 6, "iter": 200, "loss": 0.24921737611293793, "lr": 1e-05}
+{"mode": "train", "epoch": 6, "iter": 250, "loss": 0.15680964291095734, "lr": 1e-05}
+{"mode": "train", "epoch": 6, "iter": 300, "loss": 0.12176842987537384, "lr": 1e-05}
+{"mode": "train", "epoch": 6, "iter": 350, "loss": 0.20444677770137787, "lr": 1e-05}
+{"mode": "train", "epoch": 6, "iter": 400, "loss": 0.16956429183483124, "lr": 1e-05}
+{"mode": "train", "epoch": 6, "iter": 450, "loss": 0.09417756646871567, "lr": 1e-05}
+{"mode": "check", "epoch": 6, "iter": 489, "train_loss": 0.17914948232685252, "val_loss": 0.26687001436948776, "train_acc": 0.94984, "val_acc": 0.911, "lr": 1e-05}
+{"mode": "train", "epoch": 7, "iter": 50, "loss": 0.2095169574022293, "lr": 1e-05}
+{"mode": "train", "epoch": 7, "iter": 100, "loss": 0.2599667012691498, "lr": 1e-05}
+{"mode": "train", "epoch": 7, "iter": 150, "loss": 0.16910816729068756, "lr": 1e-05}
+{"mode": "train", "epoch": 7, "iter": 200, "loss": 0.21275785565376282, "lr": 1e-05}
+{"mode": "train", "epoch": 7, "iter": 250, "loss": 0.14148274064064026, "lr": 1e-05}
+{"mode": "train", "epoch": 7, "iter": 300, "loss": 0.12161817401647568, "lr": 1e-05}
+{"mode": "train", "epoch": 7, "iter": 350, "loss": 0.16890773177146912, "lr": 1e-05}
+{"mode": "train", "epoch": 7, "iter": 400, "loss": 0.1504361927509308, "lr": 1e-05}
+{"mode": "train", "epoch": 7, "iter": 450, "loss": 0.0840359628200531, "lr": 1e-05}
+{"mode": "check", "epoch": 7, "iter": 489, "train_loss": 0.164799210293588, "val_loss": 0.2652434539049864, "train_acc": 0.953632, "val_acc": 0.911, "lr": 1e-05}
+{"mode": "train", "epoch": 8, "iter": 50, "loss": 0.1767275184392929, "lr": 1e-05}
+{"mode": "train", "epoch": 8, "iter": 100, "loss": 0.23272763192653656, "lr": 1e-05}
+{"mode": "train", "epoch": 8, "iter": 150, "loss": 0.17952695488929749, "lr": 1e-05}
+{"mode": "train", "epoch": 8, "iter": 200, "loss": 0.19351324439048767, "lr": 1e-05}
+{"mode": "train", "epoch": 8, "iter": 250, "loss": 0.13802868127822876, "lr": 1e-05}
+{"mode": "train", "epoch": 8, "iter": 300, "loss": 0.12614482641220093, "lr": 1e-05}
+{"mode": "train", "epoch": 8, "iter": 350, "loss": 0.16363157331943512, "lr": 1e-05}
+{"mode": "train", "epoch": 8, "iter": 400, "loss": 0.11732426285743713, "lr": 1e-05}
+{"mode": "train", "epoch": 8, "iter": 450, "loss": 0.08419612795114517, "lr": 1e-05}
+{"mode": "check", "epoch": 8, "iter": 489, "train_loss": 0.15072772740662585, "val_loss": 0.26281166449189186, "train_acc": 0.956944, "val_acc": 0.912, "lr": 1e-05}
+{"mode": "train", "epoch": 9, "iter": 50, "loss": 0.15180885791778564, "lr": 1e-05}
+{"mode": "train", "epoch": 9, "iter": 100, "loss": 0.20507335662841797, "lr": 1e-05}
+{"mode": "train", "epoch": 9, "iter": 150, "loss": 0.16221217811107635, "lr": 1e-05}
+{"mode": "train", "epoch": 9, "iter": 200, "loss": 0.17843368649482727, "lr": 1e-05}
+{"mode": "train", "epoch": 9, "iter": 250, "loss": 0.12454473972320557, "lr": 1e-05}
+{"mode": "train", "epoch": 9, "iter": 300, "loss": 0.11404947191476822, "lr": 1e-05}
+{"mode": "train", "epoch": 9, "iter": 350, "loss": 0.12795351445674896, "lr": 1e-05}
+{"mode": "train", "epoch": 9, "iter": 400, "loss": 0.12018882483243942, "lr": 1e-05}
+{"mode": "train", "epoch": 9, "iter": 450, "loss": 0.07012283056974411, "lr": 1e-05}
+{"mode": "check", "epoch": 9, "iter": 489, "train_loss": 0.13871057030263, "val_loss": 0.26347644068300724, "train_acc": 0.9604, "val_acc": 0.912, "lr": 1e-05}
+{"mode": "train", "epoch": 10, "iter": 50, "loss": 0.1405533105134964, "lr": 1e-05}
+{"mode": "train", "epoch": 10, "iter": 100, "loss": 0.16991135478019714, "lr": 1e-05}
+{"mode": "train", "epoch": 10, "iter": 150, "loss": 0.14288154244422913, "lr": 1e-05}
+{"mode": "train", "epoch": 10, "iter": 200, "loss": 0.18204492330551147, "lr": 1e-05}
+{"mode": "train", "epoch": 10, "iter": 250, "loss": 0.10142605751752853, "lr": 1e-05}
+{"mode": "train", "epoch": 10, "iter": 300, "loss": 0.07878360897302628, "lr": 1e-05}
+{"mode": "train", "epoch": 10, "iter": 350, "loss": 0.14161157608032227, "lr": 1e-05}
+{"mode": "train", "epoch": 10, "iter": 400, "loss": 0.11285033822059631, "lr": 1e-05}
+{"mode": "train", "epoch": 10, "iter": 450, "loss": 0.07218585908412933, "lr": 1e-05}
+{"mode": "check", "epoch": 10, "iter": 489, "train_loss": 0.12679047172161578, "val_loss": 0.26490812934935093, "train_acc": 0.9636, "val_acc": 0.912, "lr": 1e-05}
+{"mode": "train", "epoch": 11, "iter": 50, "loss": 0.12229575961828232, "lr": 1e-05}
+{"mode": "train", "epoch": 11, "iter": 100, "loss": 0.1484888792037964, "lr": 1e-05}
+{"mode": "train", "epoch": 11, "iter": 150, "loss": 0.1025751605629921, "lr": 1e-05}
+{"mode": "train", "epoch": 11, "iter": 200, "loss": 0.1474919319152832, "lr": 1e-05}
+{"mode": "train", "epoch": 11, "iter": 250, "loss": 0.09805326908826828, "lr": 1e-05}
+{"mode": "train", "epoch": 11, "iter": 300, "loss": 0.08102496713399887, "lr": 1e-05}
+{"mode": "train", "epoch": 11, "iter": 350, "loss": 0.11522721499204636, "lr": 1e-05}
+{"mode": "train", "epoch": 11, "iter": 400, "loss": 0.11483671516180038, "lr": 1e-05}
+{"mode": "train", "epoch": 11, "iter": 450, "loss": 0.07420811057090759, "lr": 1e-05}
+{"mode": "check", "epoch": 11, "iter": 489, "train_loss": 0.11457956348620127, "val_loss": 0.2665027938783169, "train_acc": 0.967136, "val_acc": 0.915, "lr": 1e-05}
+{"mode": "train", "epoch": 12, "iter": 50, "loss": 0.09579391777515411, "lr": 1e-05}
+{"mode": "train", "epoch": 12, "iter": 100, "loss": 0.1243516132235527, "lr": 1e-05}
+{"mode": "train", "epoch": 12, "iter": 150, "loss": 0.09993738681077957, "lr": 1e-05}
+{"mode": "train", "epoch": 12, "iter": 200, "loss": 0.13461869955062866, "lr": 1e-05}
+{"mode": "train", "epoch": 12, "iter": 250, "loss": 0.08959909528493881, "lr": 1e-05}
+{"mode": "train", "epoch": 12, "iter": 300, "loss": 0.08226287364959717, "lr": 1e-05}
+{"mode": "train", "epoch": 12, "iter": 350, "loss": 0.10111670196056366, "lr": 1e-05}
+{"mode": "train", "epoch": 12, "iter": 400, "loss": 0.100323885679245, "lr": 1e-05}
+{"mode": "train", "epoch": 12, "iter": 450, "loss": 0.06322873383760452, "lr": 1e-05}
+{"mode": "check", "epoch": 12, "iter": 489, "train_loss": 0.1033153353156122, "val_loss": 0.27256965450942516, "train_acc": 0.97024, "val_acc": 0.913, "lr": 1e-05}
+{"mode": "train", "epoch": 13, "iter": 50, "loss": 0.07594895362854004, "lr": 1e-05}
+{"mode": "train", "epoch": 13, "iter": 100, "loss": 0.10034830123186111, "lr": 1e-05}
+{"mode": "train", "epoch": 13, "iter": 150, "loss": 0.08462042361497879, "lr": 1e-05}
+{"mode": "train", "epoch": 13, "iter": 200, "loss": 0.13354350626468658, "lr": 1e-05}
+{"mode": "train", "epoch": 13, "iter": 250, "loss": 0.08405794948339462, "lr": 1e-05}
+{"mode": "train", "epoch": 13, "iter": 300, "loss": 0.07093935459852219, "lr": 1e-05}
+{"mode": "train", "epoch": 13, "iter": 350, "loss": 0.08637300133705139, "lr": 1e-05}
+{"mode": "train", "epoch": 13, "iter": 400, "loss": 0.11967124044895172, "lr": 1e-05}
+{"mode": "train", "epoch": 13, "iter": 450, "loss": 0.06391353160142899, "lr": 1e-05}
+{"mode": "check", "epoch": 13, "iter": 489, "train_loss": 0.0927537905313227, "val_loss": 0.2772430330514908, "train_acc": 0.97312, "val_acc": 0.914, "lr": 1e-05}
+{"mode": "train", "epoch": 14, "iter": 50, "loss": 0.06482377648353577, "lr": 1e-05}
+{"mode": "train", "epoch": 14, "iter": 100, "loss": 0.08015050739049911, "lr": 1e-05}
+{"mode": "train", "epoch": 14, "iter": 150, "loss": 0.058953236788511276, "lr": 1e-05}
+{"mode": "train", "epoch": 14, "iter": 200, "loss": 0.1261182576417923, "lr": 1e-05}
+{"mode": "train", "epoch": 14, "iter": 250, "loss": 0.0782942920923233, "lr": 1e-05}
+{"mode": "train", "epoch": 14, "iter": 300, "loss": 0.06499886512756348, "lr": 1e-05}
+{"mode": "train", "epoch": 14, "iter": 350, "loss": 0.08350176364183426, "lr": 1e-05}
+{"mode": "train", "epoch": 14, "iter": 400, "loss": 0.09239063411951065, "lr": 1e-05}
+{"mode": "train", "epoch": 14, "iter": 450, "loss": 0.05616755783557892, "lr": 1e-05}
+{"mode": "check", "epoch": 14, "iter": 489, "train_loss": 0.08168299365141153, "val_loss": 0.287204971536994, "train_acc": 0.975984, "val_acc": 0.916, "lr": 1e-05}
+{"mode": "train", "epoch": 15, "iter": 50, "loss": 0.05231090262532234, "lr": 1e-05}
+{"mode": "train", "epoch": 15, "iter": 100, "loss": 0.06832777708768845, "lr": 1e-05}
+{"mode": "train", "epoch": 15, "iter": 150, "loss": 0.03825070336461067, "lr": 1e-05}
+{"mode": "train", "epoch": 15, "iter": 200, "loss": 0.10960685461759567, "lr": 1e-05}
+{"mode": "train", "epoch": 15, "iter": 250, "loss": 0.0682661235332489, "lr": 1e-05}
+{"mode": "train", "epoch": 15, "iter": 300, "loss": 0.050072081387043, "lr": 1e-05}
+{"mode": "train", "epoch": 15, "iter": 350, "loss": 0.07224695384502411, "lr": 1e-05}
+{"mode": "train", "epoch": 15, "iter": 400, "loss": 0.07120148837566376, "lr": 1e-05}
+{"mode": "train", "epoch": 15, "iter": 450, "loss": 0.051147907972335815, "lr": 1e-05}
+{"mode": "check", "epoch": 15, "iter": 489, "train_loss": 0.07094822859806761, "val_loss": 0.29623155295848846, "train_acc": 0.978624, "val_acc": 0.915, "lr": 1e-05}
+{"mode": "train", "epoch": 16, "iter": 50, "loss": 0.04548819363117218, "lr": 1e-05}
+{"mode": "train", "epoch": 16, "iter": 100, "loss": 0.0497276745736599, "lr": 1e-05}
+{"mode": "train", "epoch": 16, "iter": 150, "loss": 0.02624008245766163, "lr": 1e-05}
+{"mode": "train", "epoch": 16, "iter": 200, "loss": 0.1017143726348877, "lr": 1e-05}
+{"mode": "train", "epoch": 16, "iter": 250, "loss": 0.06061505898833275, "lr": 1e-05}
+{"mode": "train", "epoch": 16, "iter": 300, "loss": 0.030726859346032143, "lr": 1e-05}
+{"mode": "train", "epoch": 16, "iter": 350, "loss": 0.053476184606552124, "lr": 1e-05}
+{"mode": "train", "epoch": 16, "iter": 400, "loss": 0.07608505338430405, "lr": 1e-05}
+{"mode": "train", "epoch": 16, "iter": 450, "loss": 0.05306657403707504, "lr": 1e-05}
+{"mode": "check", "epoch": 16, "iter": 489, "train_loss": 0.061405040736544445, "val_loss": 0.30722618475556374, "train_acc": 0.981328, "val_acc": 0.915, "lr": 1e-05}
+{"mode": "train", "epoch": 17, "iter": 50, "loss": 0.035460084676742554, "lr": 1e-05}
+{"mode": "train", "epoch": 17, "iter": 100, "loss": 0.041355375200510025, "lr": 1e-05}
+{"mode": "train", "epoch": 17, "iter": 150, "loss": 0.01242038793861866, "lr": 1e-05}
+{"mode": "train", "epoch": 17, "iter": 200, "loss": 0.0727059617638588, "lr": 1e-05}
+{"mode": "train", "epoch": 17, "iter": 250, "loss": 0.04686886444687843, "lr": 1e-05}
+{"mode": "train", "epoch": 17, "iter": 300, "loss": 0.03140132501721382, "lr": 1e-05}
+{"mode": "train", "epoch": 17, "iter": 350, "loss": 0.05841003730893135, "lr": 1e-05}
+{"mode": "train", "epoch": 17, "iter": 400, "loss": 0.0499621257185936, "lr": 1e-05}
+{"mode": "train", "epoch": 17, "iter": 450, "loss": 0.0562622956931591, "lr": 1e-05}
+{"mode": "check", "epoch": 17, "iter": 489, "train_loss": 0.05297575698968343, "val_loss": 0.32394877448678017, "train_acc": 0.983776, "val_acc": 0.915, "lr": 1e-05}
+{"mode": "train", "epoch": 18, "iter": 50, "loss": 0.028494952246546745, "lr": 1e-05}
+{"mode": "train", "epoch": 18, "iter": 100, "loss": 0.02461940422654152, "lr": 1e-05}
+{"mode": "train", "epoch": 18, "iter": 150, "loss": 0.011399962939321995, "lr": 1e-05}
+{"mode": "train", "epoch": 18, "iter": 200, "loss": 0.06500644981861115, "lr": 1e-05}
+{"mode": "train", "epoch": 18, "iter": 250, "loss": 0.03339380398392677, "lr": 1e-05}
+{"mode": "train", "epoch": 18, "iter": 300, "loss": 0.026898227632045746, "lr": 1e-05}
+{"mode": "train", "epoch": 18, "iter": 350, "loss": 0.040811311453580856, "lr": 1e-05}
+{"mode": "train", "epoch": 18, "iter": 400, "loss": 0.058322735130786896, "lr": 1e-05}
+{"mode": "train", "epoch": 18, "iter": 450, "loss": 0.04246576875448227, "lr": 1e-05}
+{"mode": "check", "epoch": 18, "iter": 489, "train_loss": 0.044762119829391864, "val_loss": 0.33727747946977615, "train_acc": 0.985488, "val_acc": 0.913, "lr": 1e-05}
+{"mode": "train", "epoch": 19, "iter": 50, "loss": 0.02104635164141655, "lr": 1e-05}
+{"mode": "train", "epoch": 19, "iter": 100, "loss": 0.0275635477155447, "lr": 1e-05}
+{"mode": "train", "epoch": 19, "iter": 150, "loss": 0.008810843341052532, "lr": 1e-05}
+{"mode": "train", "epoch": 19, "iter": 200, "loss": 0.052618950605392456, "lr": 1e-05}
+{"mode": "train", "epoch": 19, "iter": 250, "loss": 0.016498439013957977, "lr": 1e-05}
+{"mode": "train", "epoch": 19, "iter": 300, "loss": 0.027551166713237762, "lr": 1e-05}
+{"mode": "train", "epoch": 19, "iter": 350, "loss": 0.04433507099747658, "lr": 1e-05}
+{"mode": "train", "epoch": 19, "iter": 400, "loss": 0.054499302059412, "lr": 1e-05}
+{"mode": "train", "epoch": 19, "iter": 450, "loss": 0.04642369598150253, "lr": 1e-05}
+{"mode": "check", "epoch": 19, "iter": 489, "train_loss": 0.03782401454291194, "val_loss": 0.3588942661881447, "train_acc": 0.98704, "val_acc": 0.913, "lr": 1e-05}
+{"mode": "train", "epoch": 20, "iter": 50, "loss": 0.014112679287791252, "lr": 1e-05}
+{"mode": "train", "epoch": 20, "iter": 100, "loss": 0.019600238651037216, "lr": 1e-05}
+{"mode": "train", "epoch": 20, "iter": 150, "loss": 0.006660564802587032, "lr": 1e-05}
+{"mode": "train", "epoch": 20, "iter": 200, "loss": 0.04652268812060356, "lr": 1e-05}
+{"mode": "train", "epoch": 20, "iter": 250, "loss": 0.013319375924766064, "lr": 1e-05}
+{"mode": "train", "epoch": 20, "iter": 300, "loss": 0.009508706629276276, "lr": 1e-05}
+{"mode": "train", "epoch": 20, "iter": 350, "loss": 0.0374777652323246, "lr": 1e-05}
+{"mode": "train", "epoch": 20, "iter": 400, "loss": 0.01955088973045349, "lr": 1e-05}
+{"mode": "train", "epoch": 20, "iter": 450, "loss": 0.04217909649014473, "lr": 1e-05}
+{"mode": "check", "epoch": 20, "iter": 489, "train_loss": 0.03114419066595249, "val_loss": 0.3797719478607178, "train_acc": 0.988288, "val_acc": 0.914, "lr": 1e-05}
