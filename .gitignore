@@ -135,4 +135,5 @@ submits/
 models/
 data/
 torchvision/
+references/
 *.zip
