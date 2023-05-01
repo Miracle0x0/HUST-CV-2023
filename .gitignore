@@ -133,4 +133,5 @@ dmypy.json
 bak/
 submits/
 models/
+data/
 *.zip
